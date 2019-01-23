@@ -31,4 +31,4 @@ ledControl
 + 3 Boutons push
 + 3 resistances 220 Ω
 + 10 cables male/male
-+ 5 calbes male/femelle
++ 5 cables male/femelle
