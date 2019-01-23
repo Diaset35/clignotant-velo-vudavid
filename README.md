@@ -2,7 +2,7 @@
 
 
 
-le montage du clignotant velo permet d'alllumer sur matrice une fleche gauche,
+le montage du clignotant velo permet d'alllumer sur une matrice une fleche gauche,
 une fleche droite ou un warning apres une pression sur un des trois boutons.
 projet réaliser en binome par @diaset35 et @orokronos
 
