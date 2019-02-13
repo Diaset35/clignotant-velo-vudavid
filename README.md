@@ -16,7 +16,7 @@ cliquer sur la photo pour voir la video
 
 # Photo du montage
 
-![previewclignotant](previewclignotant.jpg)
+![previewclignotant](vlocligno.png)
 
 # Bibliothèque a utiliser
 
